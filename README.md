@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **A chrome extension multiplayer game**
+- 🔭 I’m currently working on **A chrome extension**
 
-- 🌱 I’m currently learning **Firebase and I'm practicing data structures and algorithms**
+- 🌱 I’m currently learning **Python, django and flask**
 
 - 💬 Ask me about **Football, coding and F1!**
 
